@@ -1,0 +1,1 @@
+# CalisthenicsCoach ProGuard rules
